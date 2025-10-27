@@ -1,0 +1,12 @@
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\bin\Debug\net8.0\DesignPatternsDemo.Behavioral.deps.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\bin\Debug\net8.0\DesignPatternsDemo.Behavioral.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\bin\Debug\net8.0\DesignPatternsDemo.Behavioral.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.AssemblyInfoInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.AssemblyInfo.cs
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.csproj.CoreCompileInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.sourcelink.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\refint\DesignPatternsDemo.Behavioral.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\DesignPatternsDemo.Behavioral.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Behavioral\obj\Debug\net8.0\ref\DesignPatternsDemo.Behavioral.dll

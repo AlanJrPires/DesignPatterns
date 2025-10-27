@@ -1,0 +1,12 @@
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\bin\Debug\net8.0\DesignPatternsDemo.Creational.deps.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\bin\Debug\net8.0\DesignPatternsDemo.Creational.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\bin\Debug\net8.0\DesignPatternsDemo.Creational.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.AssemblyInfoInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.AssemblyInfo.cs
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.csproj.CoreCompileInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.sourcelink.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\refint\DesignPatternsDemo.Creational.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\DesignPatternsDemo.Creational.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Creational\obj\Debug\net8.0\ref\DesignPatternsDemo.Creational.dll

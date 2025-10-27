@@ -1,0 +1,12 @@
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\bin\Debug\net8.0\DesignPatternsDemo.Structural.deps.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\bin\Debug\net8.0\DesignPatternsDemo.Structural.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\bin\Debug\net8.0\DesignPatternsDemo.Structural.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.AssemblyInfoInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.AssemblyInfo.cs
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.csproj.CoreCompileInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.sourcelink.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\refint\DesignPatternsDemo.Structural.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\DesignPatternsDemo.Structural.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.Structural\obj\Debug\net8.0\ref\DesignPatternsDemo.Structural.dll

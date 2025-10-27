@@ -1,0 +1,15 @@
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\bin\Debug\net8.0\DesignPatternsDemo.ConsoleApp.exe
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\bin\Debug\net8.0\DesignPatternsDemo.ConsoleApp.deps.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\bin\Debug\net8.0\DesignPatternsDemo.ConsoleApp.runtimeconfig.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\bin\Debug\net8.0\DesignPatternsDemo.ConsoleApp.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\bin\Debug\net8.0\DesignPatternsDemo.ConsoleApp.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.AssemblyInfoInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.AssemblyInfo.cs
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.sourcelink.json
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\refint\DesignPatternsDemo.ConsoleApp.dll
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.pdb
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\DesignPatternsDemo.ConsoleApp.genruntimeconfig.cache
+E:\ALAN\Alan Jr Pires\Demo\DesignPatterns\src\DesignPatternsDemo.ConsoleApp\obj\Debug\net8.0\ref\DesignPatternsDemo.ConsoleApp.dll
