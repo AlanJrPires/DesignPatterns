@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DesignPatternsDemo.Behavioral\DesignPatternsDemo.Behavioral.csproj" />
+    <ProjectReference Include="..\DesignPatternsDemo.Creational\DesignPatternsDemo.Creational.csproj" />
+    <ProjectReference Include="..\DesignPatternsDemo.Structural\DesignPatternsDemo.Structural.csproj" />
+  </ItemGroup>
+
+
 </Project>

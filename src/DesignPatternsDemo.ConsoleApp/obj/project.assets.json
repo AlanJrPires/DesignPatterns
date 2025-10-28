@@ -1,11 +1,65 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DesignPatternsDemo.Behavioral/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsDemo.Behavioral.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsDemo.Behavioral.dll": {}
+        }
+      },
+      "DesignPatternsDemo.Creational/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsDemo.Creational.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsDemo.Creational.dll": {}
+        }
+      },
+      "DesignPatternsDemo.Structural/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DesignPatternsDemo.Creational": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DesignPatternsDemo.Structural.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsDemo.Structural.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DesignPatternsDemo.Behavioral/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsDemo.Behavioral/DesignPatternsDemo.Behavioral.csproj",
+      "msbuildProject": "../DesignPatternsDemo.Behavioral/DesignPatternsDemo.Behavioral.csproj"
+    },
+    "DesignPatternsDemo.Creational/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsDemo.Creational/DesignPatternsDemo.Creational.csproj",
+      "msbuildProject": "../DesignPatternsDemo.Creational/DesignPatternsDemo.Creational.csproj"
+    },
+    "DesignPatternsDemo.Structural/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsDemo.Structural/DesignPatternsDemo.Structural.csproj",
+      "msbuildProject": "../DesignPatternsDemo.Structural/DesignPatternsDemo.Structural.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DesignPatternsDemo.Behavioral >= 1.0.0",
+      "DesignPatternsDemo.Creational >= 1.0.0",
+      "DesignPatternsDemo.Structural >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alan Junior Pires\\.nuget\\packages\\": {},
@@ -42,7 +96,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\ALAN\\Alan Jr Pires\\Demo\\DesignPatterns\\src\\DesignPatternsDemo.Behavioral\\DesignPatternsDemo.Behavioral.csproj": {
+              "projectPath": "E:\\ALAN\\Alan Jr Pires\\Demo\\DesignPatterns\\src\\DesignPatternsDemo.Behavioral\\DesignPatternsDemo.Behavioral.csproj"
+            },
+            "E:\\ALAN\\Alan Jr Pires\\Demo\\DesignPatterns\\src\\DesignPatternsDemo.Creational\\DesignPatternsDemo.Creational.csproj": {
+              "projectPath": "E:\\ALAN\\Alan Jr Pires\\Demo\\DesignPatterns\\src\\DesignPatternsDemo.Creational\\DesignPatternsDemo.Creational.csproj"
+            },
+            "E:\\ALAN\\Alan Jr Pires\\Demo\\DesignPatterns\\src\\DesignPatternsDemo.Structural\\DesignPatternsDemo.Structural.csproj": {
+              "projectPath": "E:\\ALAN\\Alan Jr Pires\\Demo\\DesignPatterns\\src\\DesignPatternsDemo.Structural\\DesignPatternsDemo.Structural.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

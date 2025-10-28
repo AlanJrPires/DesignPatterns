@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "DesignPatternsDemo.Structural/1.0.0": {
+        "dependencies": {
+          "DesignPatternsDemo.Creational": "1.0.0"
+        },
         "runtime": {
           "DesignPatternsDemo.Structural.dll": {}
+        }
+      },
+      "DesignPatternsDemo.Creational/1.0.0": {
+        "runtime": {
+          "DesignPatternsDemo.Creational.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "DesignPatternsDemo.Structural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsDemo.Creational/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
