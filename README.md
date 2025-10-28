@@ -23,20 +23,19 @@ Este projeto é ideal para:
 
 A solução está organizada em quatro projetos distintos para facilitar a navegação e entendimento pedagógico:
 
-DesignPatternsDemo (Solution)
-│
-├── DesignPatternsDemo.Creational
-│ ├── Singleton
-│ │ └── InsuranceConfig.cs
-│ ├── FactoryMethod
-│ │ ├── InsuranceProposalFactory.cs
-│ │ ├── CarInsuranceProposalFactory.cs
-│ │ ├── HomeInsuranceProposalFactory.cs
-│ │ ├── InsuranceProposal.cs
-│ │ ├── CarInsuranceProposal.cs
-│ │ └── HomeInsuranceProposal.cs
-│
-├── DesignPatternsDemo.Structural
+## DesignPatternsDemo (Solution)
+
+ ## DesignPatternsDemo.Creational
+    ── Singleton
+       ── InsuranceConfig.cs
+    ── FactoryMethod
+       ── InsuranceProposalFactory.cs
+       ── CarInsuranceProposalFactory.cs
+       ── HomeInsuranceProposalFactory.cs
+       ── InsuranceProposal.cs
+       ── CarInsuranceProposal.cs
+       ── HomeInsuranceProposal.cs
+## DesignPatternsDemo.Structural
 │ ├── Adapter
 │ │ ├── IExternalQuotationService.cs
 │ │ ├── ExternalQuoteApi.cs
