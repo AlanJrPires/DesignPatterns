@@ -23,37 +23,29 @@ Este projeto é ideal para:
 
 A solução está organizada em quatro projetos distintos para facilitar a navegação e entendimento pedagógico:
 
-## DesignPatternsDemo (Solution)
- # DesignPatternsDemo.Creational
-   ── Singleton
-      InsuranceConfig.cs
-   ── FactoryMethod
-      InsuranceProposalFactory.cs
-      CarInsuranceProposalFactory.cs
-      HomeInsuranceProposalFactory.cs
-      InsuranceProposal.cs
-      CarInsuranceProposal.cs
-      HomeInsuranceProposal.cs
- # DesignPatternsDemo.Structural
-   ── Adapter
-      IExternalQuotationService.cs
-      ExternalQuoteApi.cs
-      QuotationAdapter.cs
-   ── Decorator
-      InsuranceProposalDecorator.cs
-      SpecialDiscountDecorator.cs
-# DesignPatternsDemo.Behavioral
-  ── Observer
-     IProposalObserver.cs
-     Agent.cs
-     ProposalSubject.cs
-  ── Strategy
-     IPremiumCalculationStrategy.cs
-     CarPremiumCalculationStrategy.cs
-     HomePremiumCalculationStrategy.cs
-     PremiumCalculator.cs
-# DesignPatternsDemo.ConsoleApp
-     Program.cs
+| Projeto                          | Pasta/Subpasta             | Arquivos principais                                   | Descrição                                      |
+|----------------------------------|----------------------------|-------------------------------------------------------|------------------------------------------------|
+| DesignPatternsDemo.Creational    | Singleton                  | InsuranceConfig.cs                                    | Configuração global (Singleton)                |
+|                                  | FactoryMethod              | InsuranceProposalFactory.cs, 
+                                                                  CarInsuranceProposalFactory.cs, 
+                                                                  HomeInsuranceProposalFactory.cs, 
+                                                                  InsuranceProposal.cs, 
+                                                                  CarInsuranceProposal.cs, 
+                                                                  HomeInsuranceProposal.cs                              | Fabricação de propostas (Factory Method)       |
+| DesignPatternsDemo.Structural    | Adapter                    | IExternalQuotationService.cs, 
+                                                                  ExternalQuoteApi.cs, 
+                                                                  QuotationAdapter.cs                                   | Adaptação de API externa                       |
+|                                  | Decorator                  | InsuranceProposalDecorator.cs, 
+                                                                  SpecialDiscountDecorator.cs                           | Adição dinâmica de funcionalidades (Decorator) |
+| DesignPatternsDemo.Behavioral    | Observer                   | IProposalObserver.cs, 
+                                                                  Agent.cs, 
+                                                                  ProposalSubject.cs                                    | Notificação de agentes (Observer)              |
+|                                  | Strategy                   | IPremiumCalculationStrategy.cs, 
+                                                                  CarPremiumCalculationStrategy.cs, 
+                                                                  HomePremiumCalculationStrategy.cs, 
+                                                                  PremiumCalculator.cs                                  | Estratégias de cálculo de prêmio (Strategy)    |
+| DesignPatternsDemo.ConsoleApp    | -                          | Program.cs                                            | Demonstração prática dos padrões               |
+
 
 - **DesignPatternsDemo.Creational**: Contém padrões de criação de objetos (Singleton, Factory Method) aplicados à criação e validação de propostas de seguro.
 - **DesignPatternsDemo.Structural**: Exemplos de padrões que organizam a estrutura do código, como Adapter para integrar API externa e Decorator para adicionar funcionalidades como descontos.
